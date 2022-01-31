@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I build mobile apps (iOS and Android) for the educational market at Thinkamingo.
+
+I build signal processing / satellite comms for Miles Space.
+
+I serve on the board of a non-profit makerspace, Tampa Hackerspace, where I also build some infrastructure applications.
