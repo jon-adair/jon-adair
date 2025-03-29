@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build mobile apps (iOS and Android) for the educational market at Thinkamingo. I recently built signal processing / satellite comms for Miles Space. I serve as Vice President and on the board of directors for a non-profit makerspace, Tampa Hackerspace, where I also build some infrastructure applications.
+I build mobile apps (iOS and Android) for the educational market at Thinkamingo. I serve as Vice President and on the board of directors for a non-profit makerspace, Tampa Hackerspace, where I also build some infrastructure applications.
